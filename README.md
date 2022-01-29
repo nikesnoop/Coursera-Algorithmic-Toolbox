@@ -7,11 +7,11 @@ Language used: **Python**
 
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
 
-### Week 1 - Programming Challenges
+### Week 1 : Programming Challenges
 - [Sum of Two Digits](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/AplusB.py)
 - [Maximum Pairwise Product](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/maximum_pairwise_product.cpp) (C++ Solution only)
 
-### Week 2 - Algorithmic Warm-up
+### Week 2 : Algorithmic Warm-up
 - [Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/fibonacci.py)
 - [Last Digit of a Large Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.2_fibonacci_last_digit.py)
 - [Greatest Common Divisor](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.3_GCD.py)
