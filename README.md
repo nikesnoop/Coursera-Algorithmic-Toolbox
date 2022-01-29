@@ -9,7 +9,7 @@ Language used: **Python**
 
 ### Week 1 - Programming Challenges
 - [Sum of Two Digits](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/AplusB.py)
-- [Maximum Pairwise Product](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/maximum_pairwise_product.cpp)(C++ Solution only)
+- [Maximum Pairwise Product](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/maximum_pairwise_product.cpp) (C++ Solution only)
 
 ### Week 2 - Algorithmic Warm-up
 - [Fibonacci Number]
