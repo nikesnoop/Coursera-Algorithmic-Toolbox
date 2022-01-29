@@ -13,7 +13,7 @@ Language used: **Python**
 
 ### Week 2 - Algorithmic Warm-up
 - [Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/fibonacci.py)
-- [Last Digit of a Large Fibonacci Number]
+- [Last Digit of a Large Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.2_fibonacci_last_digit.py)
 - [Greatest Common Divisor]
 - [Least Common Multiple]
 - [Fibonacci Number Again]
