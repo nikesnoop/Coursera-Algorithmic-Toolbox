@@ -8,7 +8,7 @@ Language used: **Python**
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
 
 ### Week 1 - Programming Challenges
-- [Sum of Two Digits]
+- [Sum of Two Digits](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/AplusB.py)
 - [Maximum Pairwise Product]
 
 ### Week 2 - Algorithmic Warm-up
