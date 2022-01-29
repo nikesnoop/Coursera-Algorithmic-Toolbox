@@ -14,9 +14,9 @@ Language used: **Python**
 ### Week 2 - Algorithmic Warm-up
 - [Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/fibonacci.py)
 - [Last Digit of a Large Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.2_fibonacci_last_digit.py)
-- [Greatest Common Divisor]
-- [Least Common Multiple]
-- [Fibonacci Number Again]
+- [Greatest Common Divisor](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.3_GCD.py)
+- [Least Common Multiple](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.4_LCM.py)
+- [Fibonacci Number Again](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.5_pisano.py)
 - [Last Digit of the Sum of Fibonacci Numbers]
 - [Last Digit of the Sum of Fibonacci Numbers Again]
 - [Last Digit of the Sum of Squares of Fibonacci Numbers]
