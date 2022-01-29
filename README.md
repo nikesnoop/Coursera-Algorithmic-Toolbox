@@ -12,7 +12,7 @@ Language used: **Python**
 - [Maximum Pairwise Product](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%201/maximum_pairwise_product.cpp) (C++ Solution only)
 
 ### Week 2 - Algorithmic Warm-up
-- [Fibonacci Number]
+- [Fibonacci Number](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/fibonacci.py)
 - [Last Digit of a Large Fibonacci Number]
 - [Greatest Common Divisor]
 - [Least Common Multiple]
