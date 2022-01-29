@@ -17,6 +17,10 @@ Language used: **Python**
 - [Greatest Common Divisor](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.3_GCD.py)
 - [Least Common Multiple](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.4_LCM.py)
 - [Fibonacci Number Again](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.5_pisano.py)
-- [Last Digit of the Sum of Fibonacci Numbers]
-- [Last Digit of the Sum of Fibonacci Numbers Again]
-- [Last Digit of the Sum of Squares of Fibonacci Numbers]
+- [Last Digit of the Sum of Fibonacci Numbers](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.6_fibonacci_sum.py)
+- [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.7_sum_again.py)
+- [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/nikesnoop/Coursera-Algorithmic-Toolbox/blob/main/Week%202/2.8_fibonaccI_sum_of_squares.py)
+
+Will keep updating once I've done watching the course videos and finished with the respective programming questions.
+
+Cheers!
