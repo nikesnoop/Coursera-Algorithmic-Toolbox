@@ -30,6 +30,8 @@ Language used: **Python**
 - [Maximum Number of Prizes (Different Summands)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.6_maximum_prizes.py)
 - [Maximum Salary (Largest Number)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.7_maximum_salary.py)
 
+### Week 4 : Divid and Conquer ([Questions PDF](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Assignments/week4_divide_and_conquer.pdf))
+
 Will keep updating once I've done watching the course videos and finished with the respective programming questions.
 
 Cheers!
