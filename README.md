@@ -5,7 +5,7 @@ This repository is used for uploading all the solutions for the course Algorithm
 This course helps one to develop their technical skills on Data Structures and Algorithms. Various videos have been published for explanation of the naive algortihms and then the effiecient algorithms which personally is an easy and effective way of learning this topic. Various assignmentss have been assigned for students in order to complete the course and the assignments help one improve their coding skills by making their algorithm as efficient as possible.
 Language used: **Python**
 
-**Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
+**Disclaimer:** The below solutions are **for reference only**. Please try coming up with your own solutions to complete the course, Thank you :)).
 
 ### Week 1 : Programming Challenges ([Questions PDF](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Assignments/week1_programming_challenges.pdf))
 - [Sum of Two Digits](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%201/AplusB.py)
