@@ -28,6 +28,7 @@ Language used: **Python**
 - [Maximum Advertisement Revenue (Maximum Dot Product)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.4_max_revenue.py)
 - [Collecting Signatures (Covering Segments by Points)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.5_collecting_signatures.py)
 - [Maximum Number of Prizes (Different Summands)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.6_maximum_prizes.py)
+- [Maximum Salary (Largest Number)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.7_maximum_salary.py)
 
 Will keep updating once I've done watching the course videos and finished with the respective programming questions.
 
