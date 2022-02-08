@@ -31,8 +31,9 @@ Language used: **Python**
 - [Maximum Salary (Largest Number)](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%203/3.7_maximum_salary.py)
 
 ### Week 4 : Divide and Conquer ([Questions PDF](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Assignments/week4_divide_and_conquer.pdf))
+- [Binary Search](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.1_binary_search.py)
 - [Binary Search with Duplicates](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.2_binary_search_leftmost.py)
-- [Majority Element]()
+- [Majority Element](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.3_majority_element.py)
 
 Will keep updating once I've done watching the course videos and finished with the respective programming questions.
 
