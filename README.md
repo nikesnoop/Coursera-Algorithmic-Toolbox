@@ -34,6 +34,8 @@ Language used: **Python**
 - [Binary Search](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.1_binary_search.py)
 - [Binary Search with Duplicates](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.2_binary_search_leftmost.py)
 - [Majority Element](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.3_majority_element.py)
+- [Improving Quick Sort](https://github.com/yaswanthhh/Coursera-Algorithmic-Toolbox/blob/main/Week%204/4.4_quick_3way.py)
+- [Inversions]() 
 
 Will keep updating once I've done watching the course videos and finished with the respective programming questions.
 
